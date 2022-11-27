@@ -1,0 +1,12 @@
+{
+  "name": "legal-firm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
