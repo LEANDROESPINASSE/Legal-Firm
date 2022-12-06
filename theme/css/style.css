@@ -86,6 +86,11 @@ ul {
   list-style: none;
 }
 
+li{
+  color: rgb(156, 156, 156);
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
 figure {
   margin: 0;
 }
