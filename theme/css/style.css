@@ -29,6 +29,7 @@ h6 {
 }
 
 p {
+  color: rgb(192, 190, 190);
   font-family: "Quattrocento Sans", sans-serif;
 }
 
@@ -57,6 +58,11 @@ p {
         height:63px;
         line-height: 66px;
 	}
+}
+
+.imga{
+  border-radius: 1%;
+  margin: 50px;
 }
 
 /*=================================================================
