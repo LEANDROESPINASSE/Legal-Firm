@@ -635,10 +635,12 @@ a:hover {
   align-items: center;
   overflow: hidden;
 }
+
 .hero-area .block {
   text-align: center;
   z-index: 99;
 }
+
 .hero-area .block .video-button a {
   background: #fff;
   display: inline-block;
